@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.npy
+library_a_raw/
+local_wiki/

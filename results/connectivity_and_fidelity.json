@@ -1,0 +1,22 @@
+{
+  "connectivity": {
+    "raw_total": 89,
+    "raw_linked": 42,
+    "raw_orphan": 47,
+    "raw_orphan_pct": 52.8,
+    "wiki_total": 79,
+    "wiki_connected": 52,
+    "wiki_orphan": 27,
+    "wiki_orphan_pct": 34.2,
+    "wiki_connected_pct": 65.8,
+    "total_wiki_out_links": 212
+  },
+  "fidelity": {
+    "matched_pairs": 34,
+    "evaluated_pairs_with_numbers": 30,
+    "total_raw_numeric_facts": 227,
+    "preserved_numeric_facts": 226,
+    "micro_preservation_pct": 99.6,
+    "macro_avg_pct": 99.7
+  }
+}
